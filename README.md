@@ -21,6 +21,8 @@ Prefer it filled in for you? **[Free College Coach Email Generator](https://sent
 
 Not sure where to find a coach's email? [How to find a college coach's email](https://sentry-sell-recruit.judestrahm.workers.dev/how-to-find-college-coach-email/).
 
+Not sure what to put in the subject line? [College coach email subject lines](college-coach-email-subject-lines.md): a formula plus examples for 12 sports, follow-ups and camps.
+
 A coach wrote back? [How to reply to a college coach's email](replying-to-college-coaches.md): copy-paste replies for questions, questionnaires, camp invites, transcripts, calls and "not right now".
 
 ## What every good first email has
