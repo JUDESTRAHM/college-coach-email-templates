@@ -1,0 +1,12 @@
+title: College Coach Email Templates (Every Sport)
+description: Free copy-paste recruiting emails for high school athletes and parents. A sample, a blank template and a follow-up for 12 sports, plus a free generator.
+url: "https://judestrahm.github.io"
+baseurl: "/college-coach-email-templates"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+relative_links:
+  enabled: true
+  collections: false
