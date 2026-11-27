@@ -14,7 +14,7 @@ Still need to send the first email? Start with our [templates for your sport](ht
 1. **Reply yourself, from your own email.** Coaches want to hear from the athlete. A parent can be copied.
 2. **Answer within a day if you can.** A quick, short reply beats a perfect one sent next week.
 3. **Answer exactly what they asked first.** If they asked for a schedule, the schedule goes in line one.
-4. **Keep the subject line.** Hit reply so the coach sees the whole thread, and keep your grad year and position in it.
+4. **Keep the subject line.** Hit reply so the coach sees the whole thread, and keep your grad year and position in it. (More in [College coach email subject lines](college-coach-email-subject-lines.md).)
 5. **Sign off with the same block every time:** name, grad year, position or events, high school, phone, film or results link.
 6. **Check that it's real.** Before you pay for a camp or send personal details, make sure the coach's name and email match the school's athletics staff page.
 7. **Track it.** Write down the school, the coach, the date and what you promised to send, then do it.
