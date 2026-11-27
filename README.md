@@ -21,6 +21,8 @@ Prefer it filled in for you? **[Free College Coach Email Generator](https://sent
 
 Not sure where to find a coach's email? [How to find a college coach's email](https://sentry-sell-recruit.judestrahm.workers.dev/how-to-find-college-coach-email/).
 
+A coach wrote back? [How to reply to a college coach's email](replying-to-college-coaches.md): copy-paste replies for questions, questionnaires, camp invites, transcripts, calls and "not right now".
+
 ## What every good first email has
 
 1. A subject line a coach can sort by: grad year, position, size or key mark, school, city and state.
