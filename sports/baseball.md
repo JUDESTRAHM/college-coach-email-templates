@@ -78,6 +78,8 @@ Thank you,
 - Make the "why this program" line true and specific. A coach can tell when it was pasted into 50 emails.
 - Send from an email address you check, and keep a list of who you emailed and when.
 
+More subject lines for follow-ups, new film and camps: [College coach email subject lines](../college-coach-email-subject-lines.md)
+
 A coach wrote back? [How to reply to a college coach's email](../replying-to-college-coaches.md)
 
 [Back to all sports](../README.md)
