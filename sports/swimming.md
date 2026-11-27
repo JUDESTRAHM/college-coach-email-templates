@@ -9,7 +9,7 @@ Want it filled in for you? The free generator for swimming does it in your brows
 This is a fictional player, not a real recruit. Notice the order: who you are, your times link near the top, your numbers, one real reason you like the program, then a reference.
 
 ```text
-Subject: 2028 Butterfly | 5'8" | Central HS (Wichita, KS) | Times inside
+Subject: 2028 Fly | 5'8" | Central HS (Wichita, KS) | Times inside
 
 Coach Johnson,
 
@@ -25,7 +25,7 @@ I'd appreciate it if you'd take a look at my times. My coach, Coach Ruiz (coach.
 
 Thank you for your time,
 Lily Chen
-Butterfly | Class of 2028 | Central HS
+Fly | Class of 2028 | Central HS
 lily@example.com
 ```
 

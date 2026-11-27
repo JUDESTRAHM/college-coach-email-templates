@@ -9,11 +9,11 @@ Want it filled in for you? The free generator for wrestling does it in your brow
 This is a fictional player, not a real recruit. Notice the order: who you are, your film link near the top, your numbers, one real reason you like the program, then a reference.
 
 ```text
-Subject: 2028 157 lb | 5'9" | Central HS (Wichita, KS) | Film inside
+Subject: 2028 Wrestler | 157 lb, 5'9" | Central HS (Wichita, KS) | Film inside
 
 Coach Johnson,
 
-I'm Dylan Ortiz, a 2028 wrestler at 157 lb at Central High School in Wichita, KS. I'm 5'9" 157.
+I'm Dylan Ortiz, a 2028 wrestler at Central High School in Wichita, KS. I'm 157 lb, 5'9".
 
 Film: https://your-film-link
 
@@ -25,7 +25,7 @@ I'd appreciate an evaluation of my film. My coach, Coach Ruiz (coach.ruiz@exampl
 
 Thank you for your time,
 Dylan Ortiz
-157 lb | Class of 2028 | Central HS
+Wrestler | Class of 2028 | Central HS
 dylan@example.com
 ```
 
