@@ -41,4 +41,4 @@ Text in this repo is CC BY 4.0: use it, change it, share it. Every sample player
 
 ## Disclosure
 
-Made by the team behind [Varsity Inbox](https://varsityinbox.com/?utm_source=github&utm_medium=templates-repo&utm_campaign=readme), our paid service ($99 a month) that builds a school list you approve, writes a personal email for each school and sends it from the athlete's own Gmail, with follow-ups. You never need it to use these templates. No template, tool or service can promise a reply, an offer or a scholarship.
+Made by the team behind [Varsity Inbox](https://varsityinbox.com/?utm_source=github&utm_medium=templates-repo&utm_campaign=readme), our paid service (from $19 a month) that builds a school list you approve, writes a personal email for each school and sends it from the athlete's own Gmail, with follow-ups. You never need it to use these templates. No template, tool or service can promise a reply, an offer or a scholarship.
