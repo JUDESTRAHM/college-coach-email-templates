@@ -84,4 +84,4 @@ Text on this page is CC BY 4.0: use it, change it, share it. Every school, name 
 
 ## Disclosure
 
-Made by the team behind [Varsity Inbox](https://varsityinbox.com/?utm_source=github&utm_medium=templates-repo&utm_campaign=subject-lines), our paid service ($99 a month) that writes and sends the first emails and follow-ups from the athlete's own Gmail and lets you know when a coach writes back. You never need it to use these subject lines. No template, tool or service can promise a reply, an offer or a scholarship.
+Made by the team behind [Varsity Inbox](https://varsityinbox.com/?utm_source=github&utm_medium=templates-repo&utm_campaign=subject-lines), our paid service (from $19 a month) that writes and sends the first emails and follow-ups from the athlete's own Gmail and lets you know when a coach writes back. You never need it to use these subject lines. No template, tool or service can promise a reply, an offer or a scholarship.
