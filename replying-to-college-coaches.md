@@ -161,4 +161,4 @@ Text on this page is CC BY 4.0: use it, change it, share it. "Coach Daniels" and
 
 ## Disclosure
 
-Made by the team behind [Varsity Inbox](https://varsityinbox.com/?utm_source=github&utm_medium=templates-repo&utm_campaign=replies), our paid service ($99 a month) that writes and sends the first emails and follow-ups from the athlete's own Gmail and lets you know when a coach writes back (a parent can be added to get the alerts). You never need it to use these replies. No template, tool or service can promise a reply, an offer or a scholarship.
+Made by the team behind [Varsity Inbox](https://varsityinbox.com/?utm_source=github&utm_medium=templates-repo&utm_campaign=replies), our paid service (from $19 a month) that writes and sends the first emails and follow-ups from the athlete's own Gmail and lets you know when a coach writes back (a parent can be added to get the alerts). You never need it to use these replies. No template, tool or service can promise a reply, an offer or a scholarship.
